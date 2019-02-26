@@ -23,7 +23,7 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
-
+CREATE DATABASE trains
 --
 -- Table structure for table `17208`
 --
