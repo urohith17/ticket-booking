@@ -285,7 +285,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`username`, `passkey`, `aadhar`, `bankaact`, `amount`) VALUES
-('nani', 'nani', 151545155451, 54815181777, 9980);
+('user', 'user1', 151545155451, 54815181777, 9980);
 
 --
 -- Indexes for dumped tables
